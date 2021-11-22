@@ -8,8 +8,9 @@ This program uses Attention and Coverage to realize **HMER** (HandWritten Mathem
 
 # Requirements
 
-	Python 3.6
-	Pytorch == 1.0 
+	Python 3.7 and above
+	Pytorch == 1.8.2 and above check you compatibility with Cuda 10.2
+	
 
 # Training and Testing
 1. Install Requirements and pretrained Densenet weights can be download [here](https://download.pytorch.org/models/densenet121-a639ec97.pth))  .
